@@ -7,6 +7,7 @@ Welcome to the **ML-Models** repository! This repository is a curated collection
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [Models Included](#models-included)
+- [Datasets](#datasets)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -20,13 +21,8 @@ This repository is designed to provide a centralized location for various machin
 The repository is organized as follows:
 ```
 ML-Models/
-│
-├── LR_Fake_News_Prediction.ipynb       # Logistic Regression for Fake News Detection
-├── LR_Rock_vs_Mine_Prediction.ipynb    # Logistic Regression for Rock vs Mine Classification
-├── SVM_Diabetes_Prediction.ipynb       # Support Vector Machine for Diabetes Prediction
-├── SVM_Loan_Status_Prediction.ipynb    # Support Vector Machine for Loan Status Prediction
-├── XGBR_House_Price_Prediction.ipynb   # XGBoost Regressor for House Price Prediction
 ├── LICENSE                             # License information
+├── Datasets.md                         # Dataset links
 └── README.md                           # Project documentation
 ```
 
@@ -40,16 +36,38 @@ To get started with any of the models:
 3. Follow the instructions in the notebook to train or evaluate the model.
 
 ## Models Included
-### 1. Logistic Regression
+### 1. Logistic Regression (LR)
 - **Fake News Prediction**: Classifies news articles as real or fake.
 - **Rock vs Mine Classification**: Differentiates between rocks and mines based on sonar data.
+- **Credit Card Fraud Detection**: Detects fraudulent credit card transactions.
+- **Heart Disease Prediction**: Predicts the likelihood of heart disease.
+- **Titanic Survival Prediction**: Predicts survival on the Titanic.
 
 ### 2. Support Vector Machine (SVM)
 - **Diabetes Prediction**: Predicts the likelihood of diabetes based on medical data.
 - **Loan Status Prediction**: Determines loan approval status based on applicant data.
+- **Parkinson's Disease Prediction**: Predicts the presence of Parkinson's disease using clinical data.
 
 ### 3. XGBoost Regressor (XGBR)
 - **House Price Prediction**: Predicts house prices based on various features.
+- **Big Mart Sales Prediction**: Predicts sales for Big Mart outlets.
+- **Calories Burnt Prediction**: Predicts calories burnt during physical activities.
+
+### 4. Linear Regression (LinR)
+- **Medical Insurance Cost Prediction**: Predicts medical insurance costs based on patient data.
+
+### 5. Lasso Linear Regression (LLR)
+- **Car Price Prediction**: Predicts car prices using Lasso regression for feature selection.
+
+### 6. Random Forest (RF)
+- **Gold Price Prediction**: Predicts gold prices based on market data.
+- **Wine Quality Prediction**: Predicts wine quality based on physicochemical tests.
+
+### 7. K-Means Clustering (KMC)
+- **Customer Segmentation**: Segments customers into groups based on purchasing behavior.
+
+## Datasets
+See the [Datasets.md](Datasets.md) file for links to the datasets used in this repository.
 
 ## Contributing
 Contributions are welcome! If you have a new model or improvement to share, please:
