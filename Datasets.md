@@ -20,6 +20,7 @@ This file contains links to the datasets used in the machine learning projects w
 14. **Heart Disease Prediction Dataset (LR)**: [Kaggle Link](https://drive.google.com/file/d/1CEql-OEexf9p02M5vCC1RDLXibHYE9Xz/view)
 15. **Titanic Survival Prediction Dataset (LR)**: [Kaggle Link](https://www.kaggle.com/c/titanic)
 16. **Parkinson's Disease Dataset**: [Kaggle Link](https://www.kaggle.com/nidaguler/parkinsons-data-set)
+17. **Spam Mail Dataset**: [Drive Link](https://drive.google.com/file/d/1uzbhec5TW_OjFr4UUZkoMm0rpyvYdhZw/view)
 
 Feel free to add more datasets as needed!
 
