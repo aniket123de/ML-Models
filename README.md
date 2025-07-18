@@ -54,7 +54,7 @@ To get started with any of the models:
 - **Calories Burnt Prediction**: Predicts calories burnt during physical activities.
 
 ### 4. Linear Regression (LinR)
-- **Medical Insurance Cost Prediction**: Predicts medical insuce costs based on patient data.
+- **Medical Insurance Cost Prediction**: Predicts medical insurance costs based on patient data.
 
 ### 5. Lasso Linear Regression (LLR)
 - **Car Price Prediction**: Predicts car prices using Lasso regression for feature selection.
